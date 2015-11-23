@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDv2bModelStoreContainer" CdmEntityContainer="BDv2bEntities">
+    <EntitySetMapping Name="Personne">
+      <EntityTypeMapping TypeName="BDv2bModel.Personne">
+        <MappingFragment StoreEntitySet="Personne">
+          <ScalarProperty Name="AGE" ColumnName="AGE" />
+          <ScalarProperty Name="MAIL" ColumnName="MAIL" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NOM" ColumnName="NOM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

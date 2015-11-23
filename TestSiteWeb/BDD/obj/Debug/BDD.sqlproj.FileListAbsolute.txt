@@ -1,0 +1,9 @@
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\bin\Debug\BDD.dacpac
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\bin\Debug\BDD.dll
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\bin\Debug\BDD.pdb
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\obj\Debug\Model.xml
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\obj\Debug\refactor.xml
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\obj\Debug\postdeploy.sql
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\obj\Debug\predeploy.sql
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\obj\Debug\BDD.dll
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\BDD\obj\Debug\BDD.pdb

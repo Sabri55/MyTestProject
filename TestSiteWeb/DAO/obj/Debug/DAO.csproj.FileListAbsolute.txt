@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\DAO.dll.config
+c:\users\user\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\DAO.dll
+c:\users\user\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\DAO.pdb
+c:\users\user\documents\visual studio 2012\Projects\TestSiteWeb\DAO\obj\Debug\DAO.dll
+c:\users\user\documents\visual studio 2012\Projects\TestSiteWeb\DAO\obj\Debug\DAO.pdb
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.dll
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.xml
+C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.SqlServer.xml

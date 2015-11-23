@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+@model  MvcApplication4.Models.personneModels
+
+<h2>Edit</h2>
+@Html.LabelFor(m => m.FirstName)
+@Html.EditorFor(m => m.FirstName, new {@id="FirstName" })
+@Html.ValidationMessageFor(m => m.FirstName, "", new  {@class="text-danger" })
+<br />
+@Html.LabelFor(m => m.LastName)
+@Html.EditorFor(m => m.LastName, new {@id="LastName" })
+@Html.ValidationMessageFor(m => m.LastName, "", new  {@class="text-danger" })
+<br />
+@Html.LabelFor(m => m.id)
+@Html.EditorFor(m => m.id, new {@id="id" })
+@Html.ValidationMessageFor(m => m.id, "", new  {@class="text-danger" })

@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@model  IEnumerable<MvcApplication4.Models.personneModels> 
+@using GridMvc.Html
+
+<h2>Index</h2>
+
+@Html.ActionLink("Create new user", "Create", "Personne")
+
+@Html.Grid(Model).Columns(column=> 
+                                {
+                                column.Add(p=>p.id).Sortable(true);
+                                column.Add(p=>p.FirstName).Filterable(true);
+                                column.Add(p => p.LastName);
+                                column.Add()
+                                      .Sanitized(false)
+                                      .Encoded(false)
+                                      .RenderValueAs(p => Html.ActionLink("Edit", "Edit", new { Id = p.id }));
+                                                                         
+                                })
