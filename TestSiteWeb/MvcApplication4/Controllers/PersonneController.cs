@@ -74,5 +74,14 @@ namespace MvcApplication4.Controllers
         }
 
 
+
+        [HttpGet]
+        public ActionResult Orgaco()
+        {
+
+            return PartialView();
+        }
+
+
     }
 }

@@ -3,3 +3,8 @@ C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAL\bin\Debug\DA
 C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAL\obj\Debug\DAL.dll
 C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAL\obj\Debug\DAL.pdb
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAL\bin\Debug\DAL.dll
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAL\bin\Debug\DAL.pdb
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAL\obj\Debug\DAL.dll
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAL\obj\Debug\DAL.pdb

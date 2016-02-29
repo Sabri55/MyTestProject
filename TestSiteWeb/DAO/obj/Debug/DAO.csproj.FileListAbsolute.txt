@@ -8,3 +8,13 @@ C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\En
 C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.xml
 C:\Users\USER\documents\visual studio 2012\Projects\TestSiteWeb\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\DAO.dll.config
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\DAO.dll
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\DAO.pdb
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\EntityFramework.dll
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\EntityFramework.xml
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\obj\Debug\DAO.dll
+D:\_MyProjectGit\MyTestProject\TestSiteWeb\DAO\obj\Debug\DAO.pdb
