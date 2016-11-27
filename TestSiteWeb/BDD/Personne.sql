@@ -5,3 +5,4 @@
 	,[MAIL] VARCHAR(50) NOT NULL 
 	,[AGE] INT NOT NULL 	
 )
+
